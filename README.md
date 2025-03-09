@@ -1,6 +1,5 @@
 Конфиги для Tevo Tornado с платой MKS Gen-L v1.0 для Marlin 2.1.3-beta2? а так же сама готовая прошивка (собирал в Visual Code и оттуда же и шил)
 1. отключена статистика принтера.
-2. Отключен BL-Touch
-3. Оставил регулировку стандартными винтами.
-4. Шаги выставлены с учетом Апгрейда на Direct BMG "Impact+лоМачо" - https://www.printables.com/model/922675-impact-printhead-for-ender-3-lomacho-direct-v20
+2. в меню Отключен пункт калибровки стола через BL-Touch (оставил регулировку барашками)
+3. Шаги выставлены с учетом Апгрейда на Direct BMG "Impact+лоМачо" - https://www.printables.com/model/922675-impact-printhead-for-ender-3-lomacho-direct-v20
    Родной мотор на директ не подходит - упирается в профиль. Потому рекомендую ставить Nema 17 23мм или 34мм высотой или Nema 14.
